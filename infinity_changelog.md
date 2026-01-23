@@ -1,5 +1,10 @@
 # Device Changelog
 
+## 23/01/2026
+- Fixed Hotspot over 5Ghz
+- Nuked Display Reality Engine
+- Added MiUi Color Modes (Standard,Vivid,Saturated,Original,P3,sRGB)
+
 ## 12/11/2025
 
 - Switched to OSS Wi-Fi  
