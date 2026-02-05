@@ -1,5 +1,8 @@
 # Device Changelog
 
+## 05/02/2026
+- Fixed Miui Camera Icon
+
 ## 23/01/2026
 - Fixed Hotspot over 5Ghz
 - Nuked Display Reality Engine
