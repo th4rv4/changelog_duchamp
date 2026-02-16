@@ -1,5 +1,19 @@
 # Device Changelog
 
+## 16/02/2026
+- Improved overall system smoothness by optimizing how background and foreground tasks are handled
+- Better memory management tuning for improved stability and responsiveness
+- Added protection to prevent issues when creating virtual RAM (zram) if storage is too low
+- Improved 120Hz display behavior for smoother visuals
+- Added system NPU components for better AI-related performance
+- Enabled Wi-Fi Aware and RTT support
+- Cleaned up unused Wi-Fi components
+- Switched back to a more stable vibrator service
+- Improved call service stability
+- Removed unnecessary audio processing for cleaner performance
+- Updated internal system components for better compatibility
+- Fixed MiUi Color Profiles
+
 ## 05/02/2026
 - Fixed Miui Camera Icon
 
