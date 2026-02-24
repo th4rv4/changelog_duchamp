@@ -1,5 +1,9 @@
 # Device Changelog
 
+## 24/02/2026
+- Fixed Burn In Protection
+- Fixed Bluetooth Hardware Offload (BT audio glitches)
+
 ## 16/02/2026
 - Improved overall system smoothness by optimizing how background and foreground tasks are handled
 - Better memory management tuning for improved stability and responsiveness
