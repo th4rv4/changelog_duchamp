@@ -1,5 +1,18 @@
 # Device Changelog
 
+## 02/11/2026
+- Initial Android 17 Build
+- Complete DT Rebase 
+- Included Fenrir
+- Included MiuiCamera
+- Included Engineering Mode
+- Included Xiaomi Parts(Thermal Profiles, Charge Controller, Core Control, High Touch Sampling Rate)
+- Fixed LDAC & LHDC (BT Audio)
+- Added MTK GED KPI (Graphics Environment Driver, Key Performance Indicators)
+- Fixed Blurs
+- New Thermals
+- Imported Blobs From OS3.0.9.0.WNLMIXM
+
 ## 24/02/2026
 - Fixed Burn In Protection
 - Fixed Bluetooth Hardware Offload (BT audio glitches)
