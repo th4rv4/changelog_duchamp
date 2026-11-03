@@ -4,6 +4,7 @@
 - Added Dolby
 - Fixed WideVine L1
 - Fixed Thermal Profile Setting to Game mode automatically on boot
+- Covered up more traces to avoid detection on Multiple apps/Bank Detections
 
 ## 02/11/2026
 - Initial Android 17 Build
