@@ -1,4 +1,9 @@
 # Device Changelog
+## 03/11/2026
+- Fixed Wifi for users facing difficulty in connecting to certain networks
+- Added Dolby
+- Fixed WideVine L1
+- Fixed Thermal Profile Setting to Game mode automatically on boot
 
 ## 02/11/2026
 - Initial Android 17 Build
