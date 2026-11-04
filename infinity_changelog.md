@@ -1,4 +1,12 @@
 # Device Changelog
+
+## 04/11/2026
+- Set Balanced Thermal Profile On Boot
+- Fixed High Touch Sampling Rate
+- Included New Thermals
+- Revamp XiaomiParts Ui
+- Revamp Dolby Manager Ui
+
 ## 03/11/2026
 - Fixed Wifi for users facing difficulty in connecting to certain networks
 - Added Dolby
