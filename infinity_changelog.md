@@ -1,5 +1,17 @@
 # Device Changelog
 
+## 07/11/2026
+- Switched To ReFra Gallery (Overrides Glimpse)
+- Fixed HDR Crash In MiuiCamera(Color Science In Outdoor Shots)
+- Added Per-App Bypass Charging
+- Added Charging Wattage Slider
+- Added Charger Widgets
+- Added Battery Card To XiaomiParts Home
+- Added Charger Card To Charging Page
+- Revamped Thermal, Charging, Core Control And Touch Pages
+- Revamped Dolby Manager Ui To Match XiaomiParts
+- Added Dolby Manager Widgets
+
 ## 04/11/2026
 - Set Balanced Thermal Profile On Boot
 - Fixed High Touch Sampling Rate
