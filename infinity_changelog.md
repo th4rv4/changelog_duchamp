@@ -1,5 +1,11 @@
 # Device Changelog
 
+## 08/11/2026
+- Added a notification while Bypass Charging is on, showing which app turned it on, with a Turn Off button
+- Touch Boost notification is now silent
+- New icons for Bypass Charging and Touch Boost, including the Touch Boost quick settings tile
+- Fixed XiaomiParts crashing in a loop on boot
+
 ## 07/11/2026
 - Switched To ReFra Gallery (Overrides Glimpse)
 - Fixed HDR Crash In MiuiCamera(Color Science In Outdoor Shots)
